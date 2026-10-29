@@ -1,0 +1,31 @@
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Streamlit and local secrets
+.streamlit/secrets.toml
+.env
+.env.*
+!.env.example
+
+# Editors and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local QA and temporary files
+.qa/
+*.log
+*.tmp
+~$*
+
+# Packaging artifacts
+build/
+dist/
+*.egg-info/

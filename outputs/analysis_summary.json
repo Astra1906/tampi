@@ -1,0 +1,12 @@
+{
+  "latest_complete_year": 2025,
+  "highest_quits_industry": "Leisure and hospitality",
+  "highest_quits_rate": 3.9250000000000003,
+  "observations": 1320,
+  "source_manifest": "data/source_manifest.json",
+  "outputs": [
+    "outputs\\figures\\01_latest_quits_rate.png",
+    "outputs\\figures\\02_quits_trends.png",
+    "outputs\\figures\\03_openings_vs_quits.png"
+  ]
+}
